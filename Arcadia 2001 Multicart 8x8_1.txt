@@ -1,0 +1,11 @@
+8 games of 8KB for Emerson Arcadia 2001 and compatibles
+Use UV EPROM 27C512
+
+1. Jump Bug (B version)
+2. Funky Fish
+3. Pleiades
+4. Doraemon
+5. Route 16
+6. Dr. Slump
+7. Grand Slam Tennis
+8. Jungler
